@@ -1,0 +1,5 @@
+project_id    = "google-cloud-project-id"
+region        = "us-central1"
+zone          = "us-central1-a"
+instance_name = "terraform-instance"
+machine_type  = "e2-medium"
